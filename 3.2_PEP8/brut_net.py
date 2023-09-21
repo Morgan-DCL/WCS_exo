@@ -2,7 +2,7 @@ import json
 import numpy as np
 
 
-file_impot = "projet_perso/Brut_net/taux_imposition.json"
+file_impot = "taux_imposition.json"
 
 class BrutNet():
     """
