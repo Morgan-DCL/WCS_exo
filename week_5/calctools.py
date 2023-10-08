@@ -23,7 +23,7 @@ class CalcTools:
         Returns n à la puissance de l'exposant.
 
     mode_(n_list: list) -> Union[float, List[float]]
-        Returns le mode de n_list. Si plusieurs modes existent, Returns une liste de modes.
+        Returns le mode de n_list. Si plusieurs modes existent, Returns une liste de modes
 
     avg_(n_list: list) -> float
         Returns la moyenne de n_list.
